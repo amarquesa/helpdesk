@@ -50,3 +50,28 @@ cd helpdesk
 
 # Rodar aplicação
 ./mvnw spring-boot:run
+
+## 🌐 Base URL
+
+http://localhost:8080
+
+---
+
+## ✅ Exemplo de resposta (GET /users)
+
+```json
+[
+  {
+    "id": 1,
+    "name": "Amanda",
+    "email": "amanda@email.com"
+  }
+]
+---md
+
+## 📈 Próximas melhorias
+
+- Autenticação com JWT
+- Integração com banco PostgreSQL
+- Documentação com Swagger
+- Deploy em cloud (Render ou Railway)
