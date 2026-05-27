@@ -1,6 +1,6 @@
 # 🚀 Helpdesk API - Spring Boot REST
 
-API REST desenvolvida em Java com Spring Boot para gerenciamento de usuários, com foco em boas práticas, validação de dados e tratamento global de exceções.
+Sistema Helpdesk desenvolvido com Java Spring Boot, APIs REST e banco de dados relacional.
 
 ---
 
