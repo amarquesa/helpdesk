@@ -27,6 +27,13 @@ Sistema Helpdesk desenvolvido com Java Spring Boot, APIs REST e banco de dados r
 
 ---
 
+## Endpoints
+
+- GET /users
+- POST /users
+- PUT /users/{id}
+- DELETE /users/{id}
+
 ## 🔥 Exemplo de erro tratado
 
 ```json
